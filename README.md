@@ -1,6 +1,6 @@
 # &lt;BodyStyle&gt;
 
-Code orinaly came from documentation of [react-side-effect](https://github.com/gaearon/react-side-effect). We simply add support for className and make it pass lint
+Code originally came from documentation of [react-side-effect](https://github.com/gaearon/react-side-effect). We simply add support for className and make it pass lint
 
 Update your body class or style in your ReactJs Flux
 
